@@ -1,1 +1,1 @@
-clang wavgen.c
+clang test.c
